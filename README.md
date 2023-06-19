@@ -6,3 +6,7 @@ Revisar en la documentación las dependencias de instalación requeridas (npm, p
 
 
 Comando para ejecutar: php artisan serve
+Usuario de pruebas:
+          usuario : user
+          mail: user@user.com
+          contraseña: user1234
